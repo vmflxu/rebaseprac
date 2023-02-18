@@ -3,4 +3,4 @@ var b = "dev2로 진행함"
 var fffff = "메인브랜치 따로 진행"
 
 
-var devCommit = "dev 4 뻗어감"
+var devCommit = "dev 5 뻗어감"
